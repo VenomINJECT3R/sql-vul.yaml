@@ -1,9 +1,9 @@
 
-id: sqli-vuln-params
+id: SQLi-Vuln-params
 
 info:
-  name: detect possible sqli parameters 
-  author: mohammed ayadi
+  name: Possible Sqli Params
+  author: Amit Kumar Biswas
   severity: info
   tags: sqli,file
 
