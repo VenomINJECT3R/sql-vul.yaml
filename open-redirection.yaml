@@ -1,8 +1,8 @@
-id: open-redirection-vuln-params
+id: Open-Redirection
 
 info:
   name: detect possible open-redirection parameters 
-  author: mohammed ayadi
+  author: Amit Kumar Biswas
   severity: info
   reference:
     - Inspired by Tom Hudson (Tomnomnom) ref:https://github.com/tomnomnom/gf 
