@@ -2,7 +2,7 @@ id: secrets-in-files
 
 info:
   name: Secrets in files
-  author: ayadi momhamed
+  author: Amit Kumar Biswas
   severity: high
   tags: keys,file,secret,exposures
 
